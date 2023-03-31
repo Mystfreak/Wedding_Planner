@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.668413fb.css",
+    "main.js": "/static/js/main.3d64cc94.js",
+    "static/js/787.795575e8.chunk.js": "/static/js/787.795575e8.chunk.js",
+    "static/media/kisspng-wedding-invitation-clip-art-lover-wedding-5aa46fefd00ca3.png": "/static/media/kisspng-wedding-invitation-clip-art-lover-wedding-5aa46fefd00ca3.0181652115207259998522.392bc73ee21be08c674f.png",
+    "static/media/Italianno-Regular.ttf": "/static/media/Italianno-Regular.af758e9e36a2222b1130.ttf",
+    "index.html": "/index.html",
+    "main.668413fb.css.map": "/static/css/main.668413fb.css.map",
+    "main.3d64cc94.js.map": "/static/js/main.3d64cc94.js.map",
+    "787.795575e8.chunk.js.map": "/static/js/787.795575e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.668413fb.css",
+    "static/js/main.3d64cc94.js"
+  ]
+}
